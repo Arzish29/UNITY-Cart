@@ -1,16 +1,91 @@
-<<<<<<< HEAD
-# 🛒 Unity Cart - E-Commerce Mobile App
+# 🛒 UNITY-Cart
 
-<div align="center">
-  <img src="assets/images/app_logo.png" alt="Unity Cart Logo" width="200"/>
-  <h3>A modern, feature-rich e-commerce mobile application built with Flutter</h3>
-  
-  [![Flutter](https://img.shields.io/badge/Flutter-3.0+-blue?style=for-the-badge&logo=flutter)](https://flutter.dev)
-  [![Dart](https://img.shields.io/badge/Dart-3.0+-0175C2?style=for-the-badge&logo=dart)](https://dart.dev)
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
-</div>
+A Flutter-based multi-community e-commerce application that delivers a personalized shopping experience based on cultural and religious preferences.
 
 ---
+
+## 🎥 Demo
+
+> *Add your video link below after uploading to GitHub*
+
+https://github.com/Arzish29/UNITY-Cart/assets/(https://1drv.ms/v/c/0decb0e81b9b9ea7/IQBR_elODWgsQZtptleVuQEsAdSmydisTbepVAleVrbQM0Q?e=r5H8Oy)
+
+---
+
+## 🚀 Features
+
+* 🧑‍🤝‍🧑 Community-based product filtering (Muslim, Hindu, Christian, etc.)
+* 🎯 Personalized product recommendations
+* 🛍️ Add to Cart & Wishlist functionality
+* 🔍 Smart search and category filtering
+* 🎉 Festival-based offers and countdown
+* 🌙 Dark Mode support
+* 📦 Recently viewed products
+* 💳 Coupon system with special offers
+* 📱 Clean and modern UI/UX
+
+---
+
+## 🧠 Approach
+
+UNITY-Cart focuses on delivering a personalized shopping experience by filtering products based on user community. Built using Flutter and Provider, the app follows a modular architecture with reusable components and clean state management.
+
+---
+
+## 🛠️ Tech Stack
+
+* **Frontend:** Flutter
+* **State Management:** Provider
+* **UI Design:** Material UI + Google Fonts
+* **Backend:** Mock data (extendable to Firebase/APIs)
+
+---
+
+
+## ▶️ Getting Started
+
+### 1. Clone the repository
+
+```
+git clone https://github.com/Arzish29/UNITY-Cart.git
+cd UNITY-Cart
+```
+
+### 2. Install dependencies
+
+```
+flutter pub get
+```
+
+### 3. Run the app
+
+```
+flutter run
+```
+
+---
+
+
+## 🎯 Future Improvements
+
+* 🔐 User Authentication
+* 🌐 Backend Integration (Firebase / APIs)
+* 💳 Payment Gateway
+* 📦 Order Tracking
+* 🤖 AI-based Recommendations
+
+---
+
+## 👨‍💻 Author
+
+**Arzish**
+
+---
+
+## ⭐ Support
+
+If you like this project, give it a ⭐ on GitHub!
+
 
 ## 📱 Overview
 
@@ -22,7 +97,7 @@
 
 Check out the app in action:
 
-**[▶️ Click here to watch the demo video](YOUR_VIDEO_LINK_HERE)**
+**[▶️ Click here to watch the demo video](https://1drv.ms/v/c/0decb0e81b9b9ea7/IQBR_elODWgsQZtptleVuQEsAdSmydisTbepVAleVrbQM0Q?e=r5H8Oy)**
 
 ---
 
@@ -185,11 +260,7 @@ Get random coupon cards for exciting discounts on your purchases.
 
 ---
 
-## 📸 Screenshots
 
-[Add your app screenshots here]
-
----
 
 ## 🤝 Contributing
 
@@ -209,25 +280,13 @@ Contributions are welcome! Here's how to help:
 
 ---
 
-## 🐛 Bug Reports & Feature Requests
-
-Found a bug? Have a feature idea? Please create an issue:
-[Open an Issue](https://github.com/yourusername/unity-cart/issues)
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 👥 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-- LinkedIn: [Your Profile](https://linkedin.com)
+- GitHub: https://github.com/Arzish29
+- Email: uggaarzish@example.com
+
 
 ---
 
@@ -237,23 +296,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - All contributors who helped make this project better
 - Special thanks to the open-source community
 
----
 
-## 📞 Support
 
-If you have any questions or need help, feel free to reach out:
-- 📧 Email: support@unitycart.com
-- 💬 Discord: [Join our server]
-- 🐦 Twitter: [@unitycart](https://twitter.com)
-
----
-
-<div align="center">
-  <p>Made with ❤️ using Flutter</p>
-  
-  ⭐ If you find this project helpful, please star the repository!
-</div>
-=======
-# UNITY-Cart
-UnityCart is a Flutter-based e-commerce platform that customizes products, offers, and experiences based on user community, featuring smart filtering, wishlist, cart, and festival-based recommendations.
->>>>>>> 4ee03348390a35d9fda81fa717cab50e7a9d92a7
