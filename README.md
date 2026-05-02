@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛒 Unity Cart - E-Commerce Mobile App
 
 <div align="center">
@@ -252,3 +253,7 @@ If you have any questions or need help, feel free to reach out:
   
   ⭐ If you find this project helpful, please star the repository!
 </div>
+=======
+# UNITY-Cart
+UnityCart is a Flutter-based e-commerce platform that customizes products, offers, and experiences based on user community, featuring smart filtering, wishlist, cart, and festival-based recommendations.
+>>>>>>> 4ee03348390a35d9fda81fa717cab50e7a9d92a7
